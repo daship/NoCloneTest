@@ -2,4 +2,3 @@ this is a test init
 
 fun1(a,b)
 return a+b+"this is a hotfix";
-
